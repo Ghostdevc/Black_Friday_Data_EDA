@@ -3,3 +3,11 @@ pandas
 seaborn
 matplotlib
 openpyxl
+ipykernel
+scikit-learn
+scipy
+xgboost
+lightgbm
+catboost
+statsmodels
+# pip install -r requirements.txt

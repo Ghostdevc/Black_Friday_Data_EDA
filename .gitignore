@@ -161,3 +161,4 @@ cython_debug/
 black_friday_eda/utils.py
 *.csv
 black_friday_eda/__init__.py
+scratch.txt
